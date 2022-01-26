@@ -1,5 +1,4 @@
 # Automated-Crypto-Trading
-__________________________
 A RSI and CCI indicator trading strategy bot which places orders
 on the binance exchange.
 # Setup
