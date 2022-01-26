@@ -3,7 +3,7 @@ __________________________
 A RSI and CCI indicator trading strategy bot which places orders
 on the binance exchange.
 __________________________
-Setup
+# Setup
 __________________________
 Install python-binance api with 
 pip install python-binance
